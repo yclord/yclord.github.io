@@ -1,6 +1,6 @@
 ---
 title: 语文（Chinese）
-index: true
+index: false
 sidebar: false
 navbar: false
 date: 2024-01-02

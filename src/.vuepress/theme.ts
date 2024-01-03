@@ -117,7 +117,7 @@ export default hopeTheme({
       components: [
         "PDF",
         "YouTube",
-        "VideoPlayer"
+        "VideoPlayer",
       ],
     },
     //comment: {

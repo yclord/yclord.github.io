@@ -15,6 +15,7 @@ a o e i u ü
 ### 复韵母
 ai ei ui ao ou iu ie üe er an en in un ün ang eng ing ong
 
+<LeafletMap />
 
 ## 参考资料
 [汉语拼音](http://yunmu.hanyupinyin.cn/)

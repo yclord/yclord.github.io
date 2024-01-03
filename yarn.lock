@@ -5983,6 +5983,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"leaflet@npm:^1.9.4":
+  version: 1.9.4
+  resolution: "leaflet@npm:1.9.4"
+  checksum: f639441dbb7eb9ae3fcd29ffd7d3508f6c6106892441634b0232fafb9ffb1588b05a8244ec7085de2c98b5ed703894df246898477836cfd0ce5b96d4717b5ca1
+  languageName: node
+  linkType: hard
+
 "leven@npm:^3.1.0":
   version: 3.1.0
   resolution: "leven@npm:3.1.0"
@@ -9282,6 +9289,7 @@ __metadata:
   resolution: "vuepress-theme-hope-template@workspace:."
   dependencies:
     "@vuepress/client": "npm:2.0.0-beta.64"
+    leaflet: "npm:^1.9.4"
     nodejs-jieba: "npm:^0.0.2"
     vue: "npm:^3.2.47"
     vuepress: "npm:2.0.0-beta.64"

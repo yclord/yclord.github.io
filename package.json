@@ -20,6 +20,7 @@
   },
   "packageManager": "yarn@4.0.2",
   "dependencies": {
+    "leaflet": "^1.9.4",
     "nodejs-jieba": "^0.0.2"
   }
 }
