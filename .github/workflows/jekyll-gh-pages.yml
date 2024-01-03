@@ -1,0 +1,69 @@
+
+name: Deploy Docs
+
+on:
+  push:
+    branches:
+      # make sure this is the branch you are using
+      - hope
+
+permissions:
+  contents: write
+
+jobs:
+  deploy-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          # if your docs needs submodules, uncomment the following line
+          # submodules: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+
+      - name: Install Deps
+        run: yarn install --frozen-lockfile
+
+      - name: Build Docs
+        env:
+          NODE_OPTIONS: --max_old_space_size=8192
+        run: |-
+          yarn run docs:build
+          > src/.vuepress/dist/.nojekyll
+
+      #- name: Deploy Docs
+      #  uses: JamesIves/github-pages-deploy-action@v4
+      #  with:
+      #    # This is the branch where the docs are deployed to
+      #    branch: gh-pages
+      #    folder: src/.vuepress/dist
+
+      #- uses: cpina/github-action-push-to-another-repository@main
+      #  env:
+      #    #SSH_DEPLOY_KEY: ${{ secrets.TEST_SECRET_KEY }}
+      #    API_TOKEN_GITHUB: ${{secrets.API_TOKEN_KEY}}
+      #  with:
+      #    source-directory: 'src/.vuepress/dist'
+      #    destination-github-username: 'seamice'
+      #    destination-repository-name: 'seamice.github.com'
+      #    user-email: unisa.dady@gmail.com
+      #    target-branch: gh-pages
+      #    #target-branch: master
+      #    target-directory: /
+      
+      #- uses: cpina/github-action-push-to-another-repository@main
+      #  env:
+      #    API_TOKEN_GITHUB: ${{secrets.API_TOKEN_KEY}}
+      #  with:
+      #    source-directory: 'src/.vuepress/dist'
+      #    destination-github-username: 'jet-w'
+      #    destination-repository-name: 'jet-w.github.com'
+      #    user-email: unisa.dady@gmail.com
+      #    target-branch: hope
+      #    target-directory: /
