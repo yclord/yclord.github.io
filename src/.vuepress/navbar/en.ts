@@ -3,13 +3,21 @@ import { navbar } from "vuepress-theme-hope";
 export const enNavbar = navbar([
   "/",
   {
-    text: "Chinese(语文)",
+    text: "语文（Chinese）",
     icon: "building-columns",
     prefix: "chinese/",
     children: [
       {text: "拼音（pinyin）", link: "pinyin"},
       {text: "汉字（word）", link: "words"},
       {text: "成语（idiom）", link: "idiom"},
+      {text: "故事（story）", link: "story"},
+    ]
+  },
+  {
+    text: "English(英文)",
+    icon: "building-columns",
+    prefix: "english/",
+    children: [
       {text: "故事（story）", link: "story"},
     ]
   },
