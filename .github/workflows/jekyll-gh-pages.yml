@@ -37,12 +37,12 @@ jobs:
           yarn run docs:build
           > src/.vuepress/dist/.nojekyll
 
-      #- name: Deploy Docs
-      #  uses: JamesIves/github-pages-deploy-action@v4
-      #  with:
-      #    # This is the branch where the docs are deployed to
-      #    branch: gh-pages
-      #    folder: src/.vuepress/dist
+      - name: Deploy Docs
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          # This is the branch where the docs are deployed to
+          branch: main
+          folder: src/.vuepress/dist
 
       #- uses: cpina/github-action-push-to-another-repository@main
       #  env:
