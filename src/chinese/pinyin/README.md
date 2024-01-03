@@ -3,8 +3,6 @@ title: 拼音（Pinyin）
 home: false
 index: false
 icon: list-check
-sidebar: false
-navbar: false
 date: 2024-01-02
 ---
 
