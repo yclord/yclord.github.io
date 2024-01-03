@@ -16,7 +16,7 @@ export const enNavbar = navbar([
   {
     text: "English(英文)",
     icon: "building-columns",
-    prefix: "english/",
+    prefix: "/english/",
     children: [
       {text: "故事（story）", link: "story"},
     ]
