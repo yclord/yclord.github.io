@@ -4,7 +4,7 @@ index: true
 author: Haiyue
 date: 2024-01-04
 ---
-<div style="font-size:30px">
+<div style="font-size:30px;text-align: justify;">
 <ruby>温<rt>wēn</rt></ruby><ruby>暖<rt>nuǎn</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>春<rt>chūn</rt></ruby><ruby>天<rt>tiān</rt></ruby><ruby>来<rt>lái</rt></ruby><ruby>了<rt>le</rt></ruby>，<ruby>一<rt>yī</rt></ruby><ruby>只<rt>zhī</rt></ruby><ruby>小<rt>xiǎo</rt></ruby><ruby>鸡<rt>jī</rt></ruby><ruby>从<rt>cóng</rt></ruby><ruby>蛋<rt>dàn</rt></ruby><ruby>壳<rt>ké</rt></ruby><ruby>里<rt>lǐ</rt></ruby><ruby>钻<rt>zuān</rt></ruby><ruby>出<rt>chū</rt></ruby><ruby>来<rt>lái</rt></ruby>。<ruby>嗬<rt>hē</rt></ruby>！<ruby>好<rt>hǎo</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>只<rt>zhī</rt></ruby><ruby>结<rt>jiē</rt></ruby><ruby>实<rt>shí</rt></ruby><ruby>健<rt>jiàn</rt></ruby><ruby>康<rt>kāng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>小<rt>xiǎo</rt></ruby><ruby>公<rt>gōng</rt></ruby><ruby>鸡<rt>jī</rt></ruby>。 
 
 <ruby>小<rt>xiǎo</rt></ruby><ruby>公<rt>gōng</rt></ruby><ruby>鸡<rt>jī</rt></ruby><ruby>跑<rt>pǎo</rt></ruby><ruby>得<rt>dé</rt></ruby><ruby>快<rt>kuài</rt></ruby>，<ruby>跳<rt>tiào</rt></ruby><ruby>得<rt>dé</rt></ruby><ruby>高<rt>gāo</rt></ruby>，<ruby>哪<rt>nǎ</rt></ruby><ruby>只<rt>zhǐ</rt></ruby><ruby>小<rt>xiǎo</rt></ruby><ruby>鸡<rt>jī</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>比<rt>bǐ</rt></ruby><ruby>不<rt>bù</rt></ruby><ruby>上<rt>shàng</rt></ruby>。 

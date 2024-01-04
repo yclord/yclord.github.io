@@ -1,13 +1,12 @@
 ---
 icon: user
 cover: /assets/images/thanos.jpg
-sidebar: false
 navbar: false
 ---
 # 自我简介（Details of me）
 ## 这就是我（This is me）
 ::: center
-![本照片根据我的照片经AI修改而得](/assets/home/yichi.png)
+![根据我的照片经AI修改而得](/assets/home/yichi.png)
 :::
 -----
 
