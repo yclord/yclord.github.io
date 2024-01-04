@@ -13,7 +13,7 @@ export default hopeTheme({
     url: "https://yclord.github.io/",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "fontawesome",
 
   logo: "/assets/home/yichi.png",
 

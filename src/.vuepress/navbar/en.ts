@@ -18,7 +18,8 @@ export const enNavbar = navbar([
     icon: "building-columns",
     prefix: "/english/",
     children: [
-      {text: "故事（story）", link: "story"},
+      {text: "Story", link: "story"},
+      {text: "Readings", link: "reading"},
     ]
   },
 
