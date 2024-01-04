@@ -6,160 +6,72 @@ date: 2024-01-02
 ---
 
 ## <ruby>声<rt>shēng</rt></ruby><ruby>母<rt>mǔ</rt></ruby>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/b.mp3').play();" style="width:30px;border=1px">b</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/p.mp3').play();" style="width:30px;border=1px">p</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/m.mp3').play();" style="width:30px;border=1px">m</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/f.mp3').play();" style="width:30px;border=1px">f</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/d.mp3').play();" style="width:30px;border=1px">d</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/t.mp3').play();" style="width:30px;border=1px">t</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/n.mp3').play();" style="width:30px;border=1px">n</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/l.mp3').play();" style="width:30px;border=1px">l</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/g.mp3').play();" style="width:30px;border=1px">g</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/k.mp3').play();" style="width:30px;border=1px">k</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/h.mp3').play();" style="width:30px;border=1px">h</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/j.mp3').play();" style="width:30px;border=1px">j</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/q.mp3').play();" style="width:30px;border=1px">q</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/x.mp3').play();" style="width:30px;border=1px">x</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/zh.mp3').play();" style="width:30px;border=1px">zh</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ch.mp3').play();" style="width:30px;border=1px">ch</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/sh.mp3').play();" style="width:30px;border=1px">sh</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/r.mp3').play();" style="width:30px;border=1px">r</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/z.mp3').play();" style="width:30px;border=1px">z</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/c.mp3').play();" style="width:30px;border=1px">c</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/s.mp3').play();" style="width:30px;border=1px">s</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/w.mp3').play();" style="width:30px;border=1px">w</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/y.mp3').play();" style="width:30px;border=1px">y</span>
-</div>
+<div id="b" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('b').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/b.mp3');audio.addEventListener('ended', function(){document.getElementById('b').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">b</div>
+<div id="p" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('p').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/p.mp3');audio.addEventListener('ended', function(){document.getElementById('p').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">p</div>
+<div id="m" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('m').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/m.mp3');audio.addEventListener('ended', function(){document.getElementById('m').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">m</div>
+<div id="f" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('f').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/f.mp3');audio.addEventListener('ended', function(){document.getElementById('f').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">f</div>
+<div id="d" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('d').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/d.mp3');audio.addEventListener('ended', function(){document.getElementById('d').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">d</div>
+<div id="t" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('t').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/t.mp3');audio.addEventListener('ended', function(){document.getElementById('t').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">t</div>
+<div id="n" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('n').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/n.mp3');audio.addEventListener('ended', function(){document.getElementById('n').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">n</div>
+<div id="l" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('l').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/l.mp3');audio.addEventListener('ended', function(){document.getElementById('l').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">l</div>
+<div id="g" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('g').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/g.mp3');audio.addEventListener('ended', function(){document.getElementById('g').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">g</div>
+<div id="k" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('k').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/k.mp3');audio.addEventListener('ended', function(){document.getElementById('k').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">k</div>
+<div id="h" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('h').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/h.mp3');audio.addEventListener('ended', function(){document.getElementById('h').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">h</div>
+<div id="j" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('j').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/j.mp3');audio.addEventListener('ended', function(){document.getElementById('j').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">j</div>
+<div id="q" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('q').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/q.mp3');audio.addEventListener('ended', function(){document.getElementById('q').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">q</div>
+<div id="x" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('x').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/x.mp3');audio.addEventListener('ended', function(){document.getElementById('x').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">x</div>
+<div id="zh" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('zh').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/zh.mp3');audio.addEventListener('ended', function(){document.getElementById('zh').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">zh</div>
+<div id="ch" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ch').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ch.mp3');audio.addEventListener('ended', function(){document.getElementById('ch').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ch</div>
+<div id="sh" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('sh').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/sh.mp3');audio.addEventListener('ended', function(){document.getElementById('sh').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">sh</div>
+<div id="r" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('r').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/r.mp3');audio.addEventListener('ended', function(){document.getElementById('r').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">r</div>
+<div id="z" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('z').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/z.mp3');audio.addEventListener('ended', function(){document.getElementById('z').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">z</div>
+<div id="c" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('c').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/c.mp3');audio.addEventListener('ended', function(){document.getElementById('c').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">c</div>
+<div id="s" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('s').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/s.mp3');audio.addEventListener('ended', function(){document.getElementById('s').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">s</div>
+<div id="w" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('w').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/w.mp3');audio.addEventListener('ended', function(){document.getElementById('w').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">w</div>
+<div id="y" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('y').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/y.mp3');audio.addEventListener('ended', function(){document.getElementById('y').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">y</div>
+
 &nbsp;
+
+---
+
+
 
 ## <ruby>韵<rt>yùn</rt></ruby><ruby>母<rt>mǔ</rt></ruby>
 ### <ruby>单<rt>dān</rt></ruby><ruby>韵<rt>yùn</rt></ruby><ruby>母<rt>mǔ</rt></ruby>
-<div>
-<div style="width: 30px;float:left;">  
-    <span onclick="new Audio('/data/pinyin/a.mp3').play();" style="width:30px;border=1px">a</span> 
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/o.mp3').play();" style="width:20px">o</span> 
-</div>
-<div style="width: 30px;float:left;">
-<span onclick="new Audio('/data/pinyin/e.mp3').play();" style="width:20px">e</span> 
-</div>
-<div style="width: 30px;float:left;">
-<span onclick="new Audio('/data/pinyin/i.mp3').play();" style="width:20px">i</span> 
-</div>
-<div style="width: 30px;float:left;">
-<span onclick="new Audio('/data/pinyin/u.mp3').play();" style="width:20px">u</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/v.mp3').play();" style="width:20px">ü</span>
-</div>
-</div>
+<div id="a" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('a').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/a.mp3');audio.addEventListener('ended', function(){document.getElementById('a').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">a</div>
+<div id="o" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('o').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/o.mp3');audio.addEventListener('ended', function(){document.getElementById('o').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">o</div>
+<div id="e" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('e').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/e.mp3');audio.addEventListener('ended', function(){document.getElementById('e').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">e</div>
+<div id="i" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('i').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/i.mp3');audio.addEventListener('ended', function(){document.getElementById('i').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">i</div>
+<div id="u" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('u').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/u.mp3');audio.addEventListener('ended', function(){document.getElementById('u').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">u</div>
+<div id="v" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('v').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/v.mp3');audio.addEventListener('ended', function(){document.getElementById('v').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ü</div>
 &nbsp;
 
-
-
+---
 ### <ruby>复<rt>fù</rt></ruby><ruby>韵<rt>yùn</rt></ruby><ruby>母<rt>mǔ</rt></ruby>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ai.mp3').play();" style="width:30px;border=1px">ai</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ei.mp3').play();" style="width:30px;border=1px">ei</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ui.mp3').play();" style="width:30px;border=1px">ui</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ao.mp3').play();" style="width:30px;border=1px">ao</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ou.mp3').play();" style="width:30px;border=1px">ou</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/iu.mp3').play();" style="width:30px;border=1px">iu</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ie.mp3').play();" style="width:30px;border=1px">ie</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ve.mp3').play();" style="width:30px;border=1px">üe</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/er.mp3').play();" style="width:30px;border=1px">er</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/an.mp3').play();" style="width:30px;border=1px">an</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/en.mp3').play();" style="width:30px;border=1px">en</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/in.mp3').play();" style="width:30px;border=1px">in</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/un.mp3').play();" style="width:30px;border=1px">un</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/vn.mp3').play();" style="width:30px;border=1px">ün</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ang.mp3').play();" style="width:30px;border=1px">ang</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/eng.mp3').play();" style="width:30px;border=1px">eng</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ing.mp3').play();" style="width:30px;border=1px">ing</span>
-</div>
-<div style="width: 30px;float:left;">
-    <span onclick="new Audio('/data/pinyin/ong.mp3').play();" style="width:30px;border=1px">ong</span>
-</div>
+<div id="ai" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ai').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ai.mp3');audio.addEventListener('ended', function(){document.getElementById('ai').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ai</div>
+<div id="ei" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ei').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ei.mp3');audio.addEventListener('ended', function(){document.getElementById('ei').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ei</div>
+<div id="ui" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ui').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ui.mp3');audio.addEventListener('ended', function(){document.getElementById('ui').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ui</div>
+<div id="ao" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ao').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ao.mp3');audio.addEventListener('ended', function(){document.getElementById('ao').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ao</div>
+<div id="ou" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ou').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ou.mp3');audio.addEventListener('ended', function(){document.getElementById('ou').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ou</div>
+<div id="iu" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('iu').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/iu.mp3');audio.addEventListener('ended', function(){document.getElementById('iu').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">iu</div>
+<div id="ie" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ie').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ie.mp3');audio.addEventListener('ended', function(){document.getElementById('ie').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ie</div>
+<div id="ve" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ve').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ve.mp3');audio.addEventListener('ended', function(){document.getElementById('ve').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">üe</div>
+<div id="er" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('er').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/er.mp3');audio.addEventListener('ended', function(){document.getElementById('er').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">er</div>
+<div id="an" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('an').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/an.mp3');audio.addEventListener('ended', function(){document.getElementById('an').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">an</div>
+<div id="en" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('en').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/en.mp3');audio.addEventListener('ended', function(){document.getElementById('en').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">en</div>
+<div id="in" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('in').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/in.mp3');audio.addEventListener('ended', function(){document.getElementById('in').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">in</div>
+<div id="un" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('un').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/un.mp3');audio.addEventListener('ended', function(){document.getElementById('un').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">un</div>
+<div id="vn" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('vn').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/vn.mp3');audio.addEventListener('ended', function(){document.getElementById('vn').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ün</div>
+<div id="ang" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ang').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ang.mp3');audio.addEventListener('ended', function(){document.getElementById('ang').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ang</div>
+<div id="eng" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('eng').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/eng.mp3');audio.addEventListener('ended', function(){document.getElementById('eng').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">eng</div>
+<div id="ing" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ing').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ing.mp3');audio.addEventListener('ended', function(){document.getElementById('ing').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ing</div>
+<div id="ong" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('ong').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ong.mp3');audio.addEventListener('ended', function(){document.getElementById('ong').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ong</div>
 &nbsp;
+
+---
+
 <LeafletMap />
+
 
 ## 参考资料
 [汉语拼音](http://yunmu.hanyupinyin.cn/)
