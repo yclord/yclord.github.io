@@ -6,31 +6,11 @@ author: Haiyue
 tag:
   - idiom
 star: false
-sticky: true
+sticky: 0
 navbar: true
+article: false
 date: 2023-07-24
 ---
-
-
-TO BE WELL KNOWN
-
-大名鼎鼎 dà míng dĭng dĭng
-
-What it means:
-
-名气很响亮，显赫。
-
-míng qì hĕn xiăng liàng, xiăn hè.
-
-(of a person) to be well known.
-
-How to use the metaphor:
-
-大家都认识这位大名鼎鼎的作家。
-
-dà jiā dōu rèn shi zhè wèi dà míng ding dĭng de zuò jiā.
-
-The author is very famous. Everyone knows who he is.
 
 
 

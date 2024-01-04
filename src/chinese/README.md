@@ -1,8 +1,8 @@
 ---
 title: 语文（Chinese）
 index: false
-sidebar: false
 navbar: false
+article: false
 date: 2024-01-02
 ---
 
@@ -13,7 +13,6 @@ for i in "aaa海洋":
     print(i, a)
 ```
 ## python 汉字转拼音
-[pypinyin](https://github.com/mozillazg/python-pinyin/blob/master/README_en.rst)
 **Sample**
 ``` python
 >>> from pypinyin import pinyin, lazy_pinyin, Style
@@ -49,7 +48,10 @@ print(ret)
 from pypinyin import pinyin, lazy_pinyin, Style
 
 def isChinese(word):
-    return '\u0e00'<=word<='\u9fa5'
+    if not '，。？！：；、）（“”…《 》【】——·'.__contains__(word):
+        return '\u0e00'<=word<='\u9fa5'
+    return False
+
 
 def htmlPinyin(words):
     ret = ""
@@ -72,3 +74,61 @@ def htmlPinyin(words):
 
 htmlPinyin("尽其所有力量，-)dfe做最，=后一搏")
 ```
+
+## 转语音
+``` python
+!pip install pyttsx3
+import pyttsx3
+pyttsx3.speak("Hello world")
+pyttsx3.speak("你好")
+```
+
+
+
+## 汉语加拼音（文件）
+``` python
+import os
+import sys
+
+from pypinyin import pinyin, lazy_pinyin, Style
+
+def isChinese(word):
+    if not '，。？！：；、）（“”…《 》【】——·'.__contains__(word):
+        return '\u0e00'<=word<='\u9fa5'
+    return False
+
+
+def htmlPinyin(words):
+    ret = ""
+    offset = 0
+    pinyins = pinyin(words)
+    pinyinc = 0
+    nonPinyinContinue = True
+    for i in range(len(words)):
+        if isChinese(words[i]):
+            nonPinyinContinue = False
+            ret = f"{ret}<ruby>{words[i]}<rt>{pinyins[i-offset + pinyinc][0]}</rt></ruby>"
+        else:
+            offset += 1
+            ret += words[i]
+            if not nonPinyinContinue:
+               pinyinc += 1 
+            nonPinyinContinue = True
+    return ret
+
+if len(sys.argv) > 1:
+    if os.path.exists(sys.argv[1]):
+        ret = None
+        with open(sys.argv[1], 'r', encoding='utf-8') as fr:
+            ret = fr.read()
+        if ret:
+            with open(sys.argv[1] + ".html", 'w', encoding='utf-8') as fw:
+                fw.write(htmlPinyin(ret))
+        else:
+            print(sys.argv[1], "内容为空")
+    else:
+        print(sys.argv[1], "不存在")
+```
+
+## References
+[pypinyin](https://github.com/mozillazg/python-pinyin/blob/master/README_en.rst)
