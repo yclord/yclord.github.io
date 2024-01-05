@@ -42,21 +42,11 @@ def leftrightsplit(prefix, fullname):
     image.crop((0, 0, width//2, height)).save(os.path.join(prefix, f"{i*2-1:03d}{ext}"))
     image.crop((width//2, 0, width, height)).save(os.path.join(prefix, f"{i*2:03d}{ext}"))
 
-imgs = [
-    "raz_lk10_allaboutkites_clr-p_页面_1.jpg",
-    "raz_lk10_allaboutkites_clr-p_页面_2.jpg",
-    "raz_lk10_allaboutkites_clr-p_页面_3.jpg",
-    "raz_lk10_allaboutkites_clr-p_页面_4.jpg",
-    "raz_lk10_allaboutkites_clr-p_页面_5.jpg",
-    "raz_lk10_allaboutkites_clr-p_页面_6.jpg",
-    "raz_lk10_allaboutkites_clr-p_页面_7.jpg",
-    "raz_lk10_allaboutkites_clr-p_页面_8.jpg",
-    "raz_lk10_allaboutkites_clr-p_页面_9.jpg",
-]
+prefix = r"F:\01.workspace\27.blog\blog-son\yclord.github.io\src\.vuepress\public\data\english\reading\AA-Animalsnap"
 
-prefix = r"E:\BaiduNetdiskDownload\RAZ 2000册\K 75\All About Kites\half"
-
-
+src_path = prefix
+imgs = os.listdir(src_path)
 for i in imgs:
-    updownsplit(prefix, i)
+    #updownsplit(prefix, i)
+    leftrightsplit(prefix, i)
 ```
