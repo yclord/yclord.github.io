@@ -10,7 +10,7 @@ date: 2024-01-04
 
 
 
-
+::: details Split Images
 ``` python
 from PIL import Image
 import os
@@ -50,3 +50,4 @@ for i in imgs:
     #updownsplit(prefix, i)
     leftrightsplit(prefix, i)
 ```
+:::
