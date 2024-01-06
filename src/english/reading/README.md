@@ -11,6 +11,7 @@ date: 2024-01-04
 
 
 ::: details Split Images
+`split.py`
 ``` python
 from PIL import Image
 import os

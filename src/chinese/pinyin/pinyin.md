@@ -5,7 +5,7 @@ author: Haiyue
 date: 2024-01-02
 ---
 
-## <ruby>声<rt>shēng</rt></ruby><ruby>母<rt>mǔ</rt></ruby>
+## <span style="font-size:30px;font-weight:bold;"><ruby>声<rt>shēng</rt></ruby><ruby>母<rt>mǔ</rt></ruby></span>
 <div id="b" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('b').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/b.mp3');audio.addEventListener('ended', function(){document.getElementById('b').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">b</div>
 <div id="p" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('p').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/p.mp3');audio.addEventListener('ended', function(){document.getElementById('p').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">p</div>
 <div id="m" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('m').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/m.mp3');audio.addEventListener('ended', function(){document.getElementById('m').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">m</div>
@@ -36,7 +36,7 @@ date: 2024-01-02
 
 
 
-## <ruby>韵<rt>yùn</rt></ruby><ruby>母<rt>mǔ</rt></ruby>
+## <span style="font-size:30px"><ruby>韵<rt>yùn</rt></ruby><ruby>母<rt>mǔ</rt></ruby></span>
 ### <ruby>单<rt>dān</rt></ruby><ruby>韵<rt>yùn</rt></ruby><ruby>母<rt>mǔ</rt></ruby>
 <div id="a" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('a').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/a.mp3');audio.addEventListener('ended', function(){document.getElementById('a').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">a</div>
 <div id="o" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('o').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/o.mp3');audio.addEventListener('ended', function(){document.getElementById('o').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">o</div>
