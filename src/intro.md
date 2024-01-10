@@ -10,7 +10,7 @@ navbar: false
 :::
 -----
 
-大家好，我爸是大头，我是小头，我们一起是大小头，这里面记录我的学期成长记录。
+大家好，我爸是大头，我是小头，我们一起是大小头，这里面记录我的学习成长。
 
 Hello, my name is Yichi, a boy who attends primary school in South Australia.
 
