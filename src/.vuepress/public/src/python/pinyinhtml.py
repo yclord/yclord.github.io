@@ -18,6 +18,8 @@ def isChinese(words):
     for word in words:
         if not '，。？！：；、）（“”…《 》【】——·'.__contains__(word):
             rc &= ('\u0e00'<=word<='\u9fa5')
+        else:
+            rc = False
         if not rc:
             break
     return rc
@@ -37,7 +39,7 @@ class ChineseAudio:
         return eval(cls.__name__)._instance
     
     def __init_audio_pkg__(self):
-        #self.__init_openvoice__()
+        self.__init_openvoice__()
         self.__init_tts__()
     
     def __init_openvoice__(self):
@@ -52,13 +54,13 @@ class ChineseAudio:
         
     def save_audio(self, words, filepath):
         #print(words, filepath)
-        self.tts_engine.save_to_file(words, filepath)
-        self.tts_engine.runAndWait()
-        #if len(words) > 0:
-        #    self.base_speaker_tts.tts(words, filepath, speaker='default', language='Chinese', speed=1.0)
-        #else:
-        #    self.tts_engine.save_to_file(words, filepath)
-        #    self.tts_engine.runAndWait()
+        #self.tts_engine.save_to_file(words, filepath)
+        #self.tts_engine.runAndWait()
+        if len(words) > 5:
+            self.base_speaker_tts.tts(words, filepath, speaker='default', language='Chinese', speed=1.0)
+        else:
+            self.tts_engine.save_to_file(words, filepath)
+            self.tts_engine.runAndWait()
         
 
 class PinyinAudio:
@@ -80,8 +82,9 @@ class PinyinAudio:
 
     def generate_audio_for_single_word(self, word, base_path):
         relative_path = self.getRelativePath(word)
-        fullpath = f"{base_path}/{relative_path}"
-        self.__audio__.save_audio(word, fullpath)
+        fullpath = os.path.abspath(f"{base_path}/{relative_path}")
+        if not os.path.exists(fullpath):
+            self.__audio__.save_audio(word, fullpath)
         return fullpath, relative_path
     
     def generate_audio_for_sentence(self, words, base_path, sentence_path):
@@ -118,7 +121,7 @@ class PinyinAudio:
         while True:
             i += 1
             temp = f'/{sentence_path}/{i:03d}.wav'.replace('\\', '/').replace('//', '/')
-            fullpath = f'{base_path}/{temp}'
+            fullpath = os.path.abspath(f'{base_path}/{temp}')
             if not os.path.exists(fullpath):
                 rc = (fullpath, temp)
                 break
@@ -143,24 +146,31 @@ class PinyinAudio:
         return rc
     
 base_path = r'F:\01.workspace\27.blog\blog-son\yclord.github.io\src\.vuepress\public'
-sentence_path = '/data/chinese/idiom/audio'
+sentence_path = '/data/chinese/stories/powfulrooster'
+word_path = '/data/chinese/audio'
+
+
+#base_path = r'F:\01.workspace\27.blog\blog-son\resources'
+#sentence_path = '/audio'
+#word_path = '/audio'
+
 obj = PinyinAudio(
     base_path = base_path,
     sentence_save_path = sentence_path,
-    word_save_path = '/data/chinese/audio'
+    word_save_path = word_path
 )
 
-print(obj.article_add_pinyin_audio("孤注一掷"))
+#print(obj.article_add_pinyin_audio("孤注一掷"))
 
-#if len(sys.argv) > 1:
-#    if os.path.exists(sys.argv[1]):
-#        ret = None
-#        with open(sys.argv[1], 'r', encoding='utf-8') as fr:
-#            ret = fr.read()
-#        if ret:
-#            with open(sys.argv[1] + ".html", 'w', encoding='utf-8') as fw:
-#                fw.write(htmlAudioPinyin(ret, base_path, sys.argv[2]))
-#        else:
-#            print(sys.argv[1], "内容为空")
-#    else:
-#        print(sys.argv[1], "不存在")
+if len(sys.argv) > 1:
+    if os.path.exists(sys.argv[1]):
+        ret = None
+        with open(sys.argv[1], 'r', encoding='utf-8') as fr:
+            ret = fr.read()
+        if ret:
+            with open(sys.argv[1] + ".html", 'w', encoding='utf-8') as fw:
+                fw.write(obj.article_add_pinyin_audio(ret))
+        else:
+            print(sys.argv[1], "内容为空")
+    else:
+        print(sys.argv[1], "不存在")
