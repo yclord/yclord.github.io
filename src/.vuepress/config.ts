@@ -20,4 +20,8 @@ export default defineUserConfig({
   theme,
   // Enable it with pwa
   // shouldPrefetch: false,
+  head: [
+    // Other head elements...
+    ['script', { src: '/src/js/audio.js' }],
+  ],
 });
