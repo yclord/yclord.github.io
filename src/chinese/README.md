@@ -9,6 +9,8 @@ date: 2024-01-02
 
 1. [加拼音及读音 python代码](/src/python/pinyinhtml.py)
 
+desktop: F:\01.workspace\27.blog\blog-son\resources
+
 ## python 判断是否为汉字
 ``` python
 for i in "aaa海洋":
