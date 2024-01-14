@@ -24,5 +24,6 @@ export default defineUserConfig({
     // Other head elements...
     ['script', { src: '/src/js/audio.js' }],
     ['script', { async: "", src: 'https://www.googletagmanager.com/gtag/js?id=G-9Q47G5TKJV'}],
+    ['script', { src: '/src/js/gtag.js' }],
   ],
 });
