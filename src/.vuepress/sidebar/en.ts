@@ -13,6 +13,11 @@ export const enSidebar = sidebar({
       prefix: "english/",
       children: "structure",
     },
+    {
+      text: "学习笔记",
+      prefix: "study_pathway/",
+      children: "structure",
+    },
     "intro"
   ],
 });
