@@ -1,7 +1,9 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { getDirname, path } from "@vuepress/utils";
 //import { searchProPlugin } from "vuepress-plugin-search-pro";
 //import { cut } from "nodejs-jieba";
+const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
   base: "/",
@@ -18,6 +20,10 @@ export default defineUserConfig({
     //},
   },
   theme,
+  alias: {
+    "@PinYin": path.resolve(__dirname, "components/pinyin.vue"),
+    "@Test": path.resolve(__dirname, "components/test.vue")
+  },
   // Enable it with pwa
   // shouldPrefetch: false,
   head: [

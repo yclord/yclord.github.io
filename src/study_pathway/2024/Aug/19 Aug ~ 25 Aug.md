@@ -5,12 +5,16 @@ author: Haiyue
 icon: circle-dot
 date: 2024-08-20
 ---
+<script setup lang="js">
+import PinYin from "@PinYin";
+</script>
 
+<PinYin/>
 
 | Date | Chinese | English | Math | Organise | Bonus:Self-learning | Bonus: Sleep before 9pm | Total |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 |20 Aug 2024 | 25 | 25 | 25 | 25 | 10 | 10 | 120 |
-
+|21 Aug 2024 | 25 | 25 | 25 | 25 | 0 | 10 | 110 |
 
 ## 20 August 2024
 
