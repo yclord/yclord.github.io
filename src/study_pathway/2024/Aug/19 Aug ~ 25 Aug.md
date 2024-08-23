@@ -12,6 +12,7 @@ date: 2024-08-20
 |20 Aug 2024 | 25 | 25 | 25 | 25 | 10 | 10 | 120 |
 |21 Aug 2024 | 25 | 25 | 25 | 25 | 0 | 10 | 110 |
 |22 Aug 2024 | 25 | 25 | 25 | 0 | 0 | 0 | 75 |
+|23 Aug 2024 | 25 | 25 | 25 | 25 | 0 | 0 | 100 |
 
 ::: info
 19 Aug 2024 take medical assessment, thus give 100 points.
@@ -137,7 +138,7 @@ rain/pain/main/aid/aim/sail/wail/paint/train/strain/braid
 @tab Math
 * **Objective**: Review previous work and learn angles
 * **Content**: 
-* A farmer has several sheep and chickens, which are totally 38 heads, 112 feet. How many sheep and chickens does the farmer have?
+![](./img/math_23Aug2024.jpg =x300)
 * **Progress**: 100%
 
 @tab Organize your own toys

@@ -11,7 +11,7 @@
       <!-- 模态窗口 -->
       <div id="modal" class="modal">
           <span id="closeModal" class="close-btn">&times;</span>
-          <iframe src="/chinese/pinyin/pinyin" style="width: 100%; height: 400px; border: none;"></iframe>
+          <iframe src="/chinese/pinyin/pinyin" style="width: 100%; height: 700px; border: none;"></iframe>
       </div>
     </div>
 </template>
