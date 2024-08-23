@@ -46,7 +46,7 @@ date: 2024-08-20
 
 @tab Bonus
 **Self-learning**: 100%
-**Go to bed before 9pm**: 
+**Go to bed before 9pm**: 100%
 :::
 
 
@@ -116,6 +116,34 @@ rain/pain/main/aid/aim/sail/wail/paint/train/strain/braid
 **Objective**: Learn how to organize the toys and establish good habits.
 **Content**: Origanize the bedroom.
 **Progress**: 0%
+
+@tab Bonus
+**Self-learning**: 0%
+**Go to bed before 9pm**: 0%
+:::
+
+## 23 August 2024
+::: tabs
+@tab 中文(Chinese)
+**目的**：学习拼音
+**内容**：[认识拼音并读](/chinese/idiom/2024-01-21_当机立断.html)
+**完成度**：
+
+@tab English
+**Objective**: Reading
+**Content**: Ding dong baby
+**Progress**: 100%
+
+@tab Math
+* **Objective**: Review previous work and learn angles
+* **Content**: 
+* A farmer has several sheep and chickens, which are totally 38 heads, 112 feet. How many sheep and chickens does the farmer have?
+* **Progress**: 100%
+
+@tab Organize your own toys
+**Objective**: Learn how to organize the toys and establish good habits.
+**Content**: Origanize the bedroom.
+**Progress**: 
 
 @tab Bonus
 **Self-learning**: 0%
