@@ -1,6 +1,6 @@
 ---
 title: ""
-index: true
+index: false
 author: Haiyue
 navbar: false
 sidebar: false
@@ -9,10 +9,22 @@ footer: ""
 copyright: ""
 ---
 <style>
-  .page-info, .vp-breadcrumb {
+  .page-info, .vp-breadcrumb, .page-meta {
     display: none;
   }
-  
+  .theme-container, #main-content{
+    height: 400px;
+  }
+  .theme-container, #main-content, .theme-hope-content{
+    padding-bottom: 0px
+  }
+  .vp-footer-wrapper{
+    display:none;
+    padding: 0px;
+    margin: 0px;
+    padding: 0px;
+  }
+
 </style>
 ## <span style="font-size:30px;font-weight:bold;"><ruby>声<rt>shēng</rt></ruby><ruby>母<rt>mǔ</rt></ruby></span>
 <div id="b" style="margin:0px 2px;width: 30px;float:left;background-color:rgba(0,0,0,0);padding:1px;text-align: center;" onclick="document.getElementById('b').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/b.mp3');audio.addEventListener('ended', function(){document.getElementById('b').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">b</div>
