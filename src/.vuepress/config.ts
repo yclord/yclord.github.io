@@ -21,7 +21,8 @@ export default defineUserConfig({
   },
   theme,
   alias: {
-    "@PinYin": path.resolve(__dirname, "components/pinyin.vue"),
+    "@PinYin_help": path.resolve(__dirname, "components/pinyin_help.vue"),
+    "@PinYin": path.resolve(__dirname, "components/pinyin_popup.vue"),
     "@Test": path.resolve(__dirname, "components/test.vue")
   },
   // Enable it with pwa
