@@ -150,3 +150,17 @@ rain/pain/main/aid/aim/sail/wail/paint/train/strain/braid
 **Self-learning**: 0%
 **Go to bed before 9pm**: 0%
 :::
+
+
+## 24 August 2024 (Satday)
+::: tabs
+@tab 中文(Chinese)
+**目的**：学习拼音
+**内容**：[认识拼音并读](/chinese/idiom/2024-01-20_不可救药.html)
+**完成度**：
+
+@tab English
+**Objective**: Reading
+**Content**: [Reading - K](/english/reading/K/03.Animals.html)
+**Progress**: 100%
+:::
