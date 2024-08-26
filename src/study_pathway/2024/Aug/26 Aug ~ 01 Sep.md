@@ -8,7 +8,7 @@ date: 2024-08-26
 
 | Date | Chinese | English | Math | Organise | Bonus:Self-learning | Bonus: Sleep before 9pm | Punishment | Total |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|26 Aug 2024 | 0 | 25 | 25 | 0 | 0 | 0 | Play during dinner: -5 | 45 |
+|26 Aug 2024 | 0 | 25 | 25 | 0 | 0 | 25 | Play during dinner: -5 | 70 |
 
 
 ## 26 August 2024
