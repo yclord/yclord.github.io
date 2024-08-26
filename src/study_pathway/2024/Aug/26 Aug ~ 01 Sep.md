@@ -11,8 +11,7 @@ date: 2024-08-26
 |26 Aug 2024 | 0 | 25 | 25 | 0 | 0 | 0 | Play during dinner: -5 | 45 |
 
 
-## 20 August 2024
-
+## 26 August 2024
 ::: tabs
 @tab 中文(Chinese)
 **目的**：学习拼音
@@ -27,7 +26,7 @@ date: 2024-08-26
 @tab Math
 * **Objective**: Review previous work and learn angles
 * **Content**: 
-![](img/math_26Aug2024.jpg)
+![](img/math_26Aug2024.jpg =300x)
 * **Progress**: 100%
 
 @tab Organize your own toys
@@ -41,4 +40,34 @@ date: 2024-08-26
 
 @tab Punishment
 1. Play during dinner. -5
+:::
+
+## 27 August 2024
+::: tabs
+@tab 中文(Chinese)
+**目的**：学习拼音
+**内容**：[认识拼音并读第一段](/chinese/idiom/2024-01-20_不可救药.html)
+**完成度**：
+
+@tab English
+**Objective**: Reading and Writing
+**Content**: [Abigail Adams](/english/reading/K/01.AbigailAdams(clr).html) p7~p9
+**Progress**: 
+
+@tab Math
+* **Objective**: Learn Multiplication and Division
+* **Content**: 
+* **Progress**: 
+
+@tab Organize your own toys
+**Objective**: Establish good habits
+**Content**: 
+**Progress**: 
+
+@tab Bonus
+**Self-learning**: 
+**Go to bed before 9pm**: 
+
+@tab Punishment
+
 :::
