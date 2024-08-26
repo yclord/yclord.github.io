@@ -47,6 +47,11 @@ copyright: ""
     display: table;
     clear: both;
   }
+
+  .col1{
+  }
+  .col2{
+  }
 </style>
 <script>
   function xplay(id){
@@ -108,25 +113,27 @@ copyright: ""
 ---
 
 <div class="clearfix">
-  <div class="title">
+  <div class="title col1">
   *<span style="font-size:15px"><ruby>复<rt>fù</rt></ruby><ruby>韵<rt>yùn</rt></ruby><ruby>母<rt>mǔ</rt></ruby></span>*
   </div>
-  <div class="pinyin-letter" id="ai"  onclick="document.getElementById('ai').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ai.mp3');audio.addEventListener('ended',  function(){document.getElementById('ai').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ai</div>
-  <div class="pinyin-letter" id="ei"  onclick="document.getElementById('ei').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ei.mp3');audio.addEventListener('ended',  function(){document.getElementById('ei').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ei</div>
-  <div class="pinyin-letter" id="ui"  onclick="document.getElementById('ui').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ui.mp3');audio.addEventListener('ended',  function(){document.getElementById('ui').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ui</div>
-  <div class="pinyin-letter" id="ao"  onclick="document.getElementById('ao').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ao.mp3');audio.addEventListener('ended',  function(){document.getElementById('ao').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ao</div>
-  <div class="pinyin-letter" id="ou"  onclick="document.getElementById('ou').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ou.mp3');audio.addEventListener('ended',  function(){document.getElementById('ou').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ou</div>
-  <div class="pinyin-letter" id="iu"  onclick="document.getElementById('iu').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/iu.mp3');audio.addEventListener('ended',  function(){document.getElementById('iu').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">iu</div>
-  <div class="pinyin-letter" id="ie"  onclick="document.getElementById('ie').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ie.mp3');audio.addEventListener('ended',  function(){document.getElementById('ie').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ie</div>
-  <div class="pinyin-letter" id="ve"  onclick="document.getElementById('ve').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ve.mp3');audio.addEventListener('ended',  function(){document.getElementById('ve').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">üe</div>
-  <div class="pinyin-letter" id="er"  onclick="document.getElementById('er').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/er.mp3');audio.addEventListener('ended',  function(){document.getElementById('er').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">er</div>
-  <div class="pinyin-letter" id="an"  onclick="document.getElementById('an').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/an.mp3');audio.addEventListener('ended',  function(){document.getElementById('an').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">an</div>
-  <div class="pinyin-letter" id="en"  onclick="document.getElementById('en').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/en.mp3');audio.addEventListener('ended',  function(){document.getElementById('en').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">en</div>
-  <div class="pinyin-letter" id="in"  onclick="document.getElementById('in').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/in.mp3');audio.addEventListener('ended',  function(){document.getElementById('in').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">in</div>
-  <div class="pinyin-letter" id="un"  onclick="document.getElementById('un').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/un.mp3');audio.addEventListener('ended',  function(){document.getElementById('un').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">un</div>
-  <div class="pinyin-letter" id="vn"  onclick="document.getElementById('vn').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/vn.mp3');audio.addEventListener('ended',  function(){document.getElementById('vn').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ün</div>
-  <div class="pinyin-letter" id="ang" onclick="document.getElementById('ang').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ang.mp3');audio.addEventListener('ended', function(){document.getElementById('ang').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ang</div>
-  <div class="pinyin-letter" id="eng" onclick="document.getElementById('eng').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/eng.mp3');audio.addEventListener('ended', function(){document.getElementById('eng').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">eng</div>
-  <div class="pinyin-letter" id="ing" onclick="document.getElementById('ing').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ing.mp3');audio.addEventListener('ended', function(){document.getElementById('ing').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ing</div>
-  <div class="pinyin-letter" id="ong" onclick="document.getElementById('ong').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ong.mp3');audio.addEventListener('ended', function(){document.getElementById('ong').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ong</div>
+  <div class="title clearfix col2">
+    <div class="pinyin-letter" id="ai"  onclick="document.getElementById('ai').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ai.mp3');audio.addEventListener('ended',  function(){document.getElementById('ai').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ai</div>
+    <div class="pinyin-letter" id="ei"  onclick="document.getElementById('ei').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ei.mp3');audio.addEventListener('ended',  function(){document.getElementById('ei').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ei</div>
+    <div class="pinyin-letter" id="ui"  onclick="document.getElementById('ui').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ui.mp3');audio.addEventListener('ended',  function(){document.getElementById('ui').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ui</div>
+    <div class="pinyin-letter" id="ao"  onclick="document.getElementById('ao').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ao.mp3');audio.addEventListener('ended',  function(){document.getElementById('ao').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ao</div>
+    <div class="pinyin-letter" id="ou"  onclick="document.getElementById('ou').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ou.mp3');audio.addEventListener('ended',  function(){document.getElementById('ou').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ou</div>
+    <div class="pinyin-letter" id="iu"  onclick="document.getElementById('iu').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/iu.mp3');audio.addEventListener('ended',  function(){document.getElementById('iu').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">iu</div>
+    <div class="pinyin-letter" id="ie"  onclick="document.getElementById('ie').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ie.mp3');audio.addEventListener('ended',  function(){document.getElementById('ie').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ie</div>
+    <div class="pinyin-letter" id="ve"  onclick="document.getElementById('ve').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/ve.mp3');audio.addEventListener('ended',  function(){document.getElementById('ve').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">üe</div>
+    <div class="pinyin-letter" id="er"  onclick="document.getElementById('er').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/er.mp3');audio.addEventListener('ended',  function(){document.getElementById('er').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">er</div>
+    <div class="pinyin-letter" id="an"  onclick="document.getElementById('an').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/an.mp3');audio.addEventListener('ended',  function(){document.getElementById('an').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">an</div>
+    <div class="pinyin-letter" id="en"  onclick="document.getElementById('en').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/en.mp3');audio.addEventListener('ended',  function(){document.getElementById('en').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">en</div>
+    <div class="pinyin-letter" id="in"  onclick="document.getElementById('in').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/in.mp3');audio.addEventListener('ended',  function(){document.getElementById('in').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">in</div>
+    <div class="pinyin-letter" id="un"  onclick="document.getElementById('un').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/un.mp3');audio.addEventListener('ended',  function(){document.getElementById('un').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">un</div>
+    <div class="pinyin-letter" id="vn"  onclick="document.getElementById('vn').style.backgroundColor  = 'orange';let audio = new Audio('/data/pinyin/vn.mp3');audio.addEventListener('ended',  function(){document.getElementById('vn').style.backgroundColor  = 'rgba(0,0,0,0)';});audio.play()">ün</div>
+    <div class="pinyin-letter" id="ang" onclick="document.getElementById('ang').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ang.mp3');audio.addEventListener('ended', function(){document.getElementById('ang').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ang</div>
+    <div class="pinyin-letter" id="eng" onclick="document.getElementById('eng').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/eng.mp3');audio.addEventListener('ended', function(){document.getElementById('eng').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">eng</div>
+    <div class="pinyin-letter" id="ing" onclick="document.getElementById('ing').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ing.mp3');audio.addEventListener('ended', function(){document.getElementById('ing').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ing</div>
+    <div class="pinyin-letter" id="ong" onclick="document.getElementById('ong').style.backgroundColor = 'orange';let audio = new Audio('/data/pinyin/ong.mp3');audio.addEventListener('ended', function(){document.getElementById('ong').style.backgroundColor = 'rgba(0,0,0,0)';});audio.play()">ong</div>
+  </div>
 </div>
