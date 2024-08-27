@@ -8,7 +8,8 @@ date: 2024-08-26
 
 | Date | Chinese | English | Math | Organise | Bonus:Self-learning | Bonus: Sleep before 9pm | Punishment | Total |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|26 Aug 2024 | 0 | 25 | 25 | 0 | 0 | 25 | Play during dinner: -5 | 70 |
+|26 Aug 2024 | 0 | 25 | 25 | 0 | 0 | 0 | Play during dinner: -5 | 45 |
+|27 Aug 2024 | 25 | 25 | 25 | 25 | 0 | 0 | Play during dinner: -5 | 110 |
 
 
 ## 26 August 2024
@@ -51,7 +52,38 @@ date: 2024-08-26
 
 @tab English
 **Objective**: Reading and Writing
-**Content**: [Abigail Adams](/english/reading/K/01.AbigailAdams(clr).html) p7~p9
+**Content**: [Abigail Adams](/english/reading/K/01.AbigailAdams(clr).html) p8~p10
+**Progress**: 
+
+@tab Math
+* **Objective**: Learn Multiplication and Division
+* **Content**: 
+* **Progress**: 
+
+@tab Organize your own toys
+**Objective**: Establish good habits
+**Content**: 
+**Progress**: 
+
+@tab Bonus
+**Self-learning**: 
+**Go to bed before 9pm**: 100% 
+
+@tab Punishment
+
+:::
+
+
+## 28 August 2024
+::: tabs
+@tab 中文(Chinese)
+**目的**：学习拼音
+**内容**：[认识拼音并读第一段](/chinese/idiom/2024-01-21_当机立断.html)
+**完成度**：
+
+@tab English
+**Objective**: Reading and Writing
+**Content**: [Abigail Adams](/english/reading/K/01.AbigailAdams(clr).html) p11~p13
 **Progress**: 
 
 @tab Math
