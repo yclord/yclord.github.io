@@ -4,11 +4,11 @@ index: true
 date: 2024-08-28
 ---
 <style>
-  div {
+  div.content {
     font-size: 30pt;
   }
 </style>
-<div>
+<div class="content">
 <ruby>第<rt>dì</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>回<rt>huí</rt></ruby> <ruby>灵<rt>líng</rt></ruby><ruby>根<rt>gēn</rt></ruby><ruby>育<rt>yù</rt></ruby><ruby>孕<rt>yùn</rt></ruby><ruby>源<rt>yuán</rt></ruby><ruby>流<rt>liú</rt></ruby><ruby>出<rt>chū</rt></ruby> 
 
 <ruby>诗<rt>shī</rt></ruby><ruby>曰<rt>yuē</rt></ruby>：
