@@ -11,6 +11,7 @@ date: 2024-08-26
 |26 Aug 2024 | 0 | 25 | 25 | 0 | 0 | 0 | Play during dinner: -5 | 45 |
 |27 Aug 2024 | 25 | 25 | 25 | 25 | 0 | 10 | Play during dinner: -5 | 105 |
 |28 Aug 2024 | 25 | 25 | 25 | 25 | 0 | 0 |  | 95 |
+|29 Aug 2024 | 25 | 25 | 25 | 25 | 10 | 0 | Cannot finish dinner: -5 | 105|
 
 
 ## 26 August 2024
@@ -121,18 +122,19 @@ date: 2024-08-26
 @tab Math
 * **Objective**: Learn Multiplication and Division
 * **Content**: 
-* **Progress**: 
+* **Progress**: 100% 
 
 @tab Organize your own toys
 **Objective**: Establish good habits
 **Content**: 
-**Progress**: 
+**Progress**: 100%
 
 @tab Bonus
-**Self-learning**: 
+**Self-learning**: 100% 
 **Go to bed before 9pm**: 
 
 @tab Punishment
+Cannot finish dinner: -5
 
 :::
 
@@ -142,23 +144,23 @@ date: 2024-08-26
 ::: tabs
 @tab 中文(Chinese)
 **目的**：学习拼音
-**内容**：[认识拼音并读第一段](/chinese/idiom/2024-01-11_从容不迫.html)
-**完成度**： 
+**内容**：[认识拼音并读第一段](/chinese/idiom/2024-01-10_出尔反尔.html)
+**完成度**： 100%
 
 @tab English
 **Objective**: Reading and Writing
-**Content**: [Abigail Adams](/english/reading/K/01.AbigailAdams(clr).html) p11~p13
-**Progress**: 
+**Content**: [Abigail Adams](/english/reading/K/02.AllAboutKite.html) p4~p6
+**Progress**: 100%
 
 @tab Math
 * **Objective**: Learn Multiplication and Division
 * **Content**: 
-* **Progress**: 
+* **Progress**: 100%
 
 @tab Organize your own toys
 **Objective**: Establish good habits
 **Content**: 
-**Progress**: 
+**Progress**: 100%
 
 @tab Bonus
 **Self-learning**: 
