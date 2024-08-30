@@ -10,8 +10,9 @@ date: 2024-08-26
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 |26 Aug 2024 | 0 | 25 | 25 | 0 | 0 | 0 | Play during dinner: -5 | 45 |
 |27 Aug 2024 | 25 | 25 | 25 | 25 | 0 | 10 | Play during dinner: -5 | 105 |
-|28 Aug 2024 | 25 | 25 | 25 | 25 | 0 | 0 |  | 95 |
+|28 Aug 2024 | 25 | 25 | 25 | 25 | 0 | 0 |  | 100 |
 |29 Aug 2024 | 25 | 25 | 25 | 25 | 10 | 0 | Cannot finish dinner: -5 | 105|
+|30 Aug 2024 | 25 | 25 | 25 | 25 | 10 | 0 |  | 100 |
 
 
 ## 26 August 2024
@@ -163,7 +164,7 @@ Cannot finish dinner: -5
 **Progress**: 100%
 
 @tab Bonus
-**Self-learning**: 
+**Self-learning**: 100%
 **Go to bed before 9pm**: 
 
 @tab Punishment
