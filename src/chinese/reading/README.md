@@ -1,10 +1,9 @@
 ---
-title: 故事（Story）
+title: 阅读（Reading）
 home: false
 index: false
 icon: list-check
 navbar: true
-date: 2024-01-02
 ---
 
 
