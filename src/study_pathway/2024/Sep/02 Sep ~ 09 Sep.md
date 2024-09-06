@@ -115,7 +115,7 @@ date: 2024-09-02
 
 @tab English
 **Objective**: Reading and Writing
-**Content**: [Animals](/english/reading/K/03.Animals.html.html) p3~p7
+**Content**: [Animals](/english/reading/K/03.Animals.html) p3~p7
 **Progress**: 
 
 @tab Math
@@ -146,7 +146,7 @@ date: 2024-09-02
 
 @tab English
 **Objective**: Reading and Writing
-**Content**: [Animals](/english/reading/K/03.Animals.html.html) p8~p12
+**Content**: [Animals](/english/reading/K/03.Animals.html) p8~p12
 **Progress**: 
 
 @tab Math
