@@ -8,9 +8,10 @@ date: 2024-09-02
 
 | Date | Chinese | English | Math | Organise | Bonus:Self-learning | Bonus: Sleep before 9pm | Punishment | Total |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|02 Sep 2024 | 25 | 25 | 0 | 0 | 10 | 0 | Play during doing Math: -5 | 55 |
+|02 Sep 2024 | 25 | 25 | 0 | 0 | 10 | 0 |  | 60 |
 |03 Sep 2024 | 25 | 25 | 25 | 25 | 10 | 10 |  | 120 |
 |04 Sep 2024 | 25 | 25 | 25 | 25 | 10 | 10 |  | 120 |
+|05 Sep 2024 | 25 | 25 | 25 | 25 | 10 | 10 |  | 120 |
 
 
 ## 02 September 2024
