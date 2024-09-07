@@ -23,7 +23,8 @@ export default defineUserConfig({
   alias: {
     "@PinYin_help": path.resolve(__dirname, "components/pinyin_help.vue"),
     "@PinYin": path.resolve(__dirname, "components/pinyin_popup.vue"),
-    "@Test": path.resolve(__dirname, "components/test.vue")
+    "@Test": path.resolve(__dirname, "components/test.vue"),
+    "@Book": path.resolve(__dirname, "components/book.vue")
   },
   // Enable it with pwa
   // shouldPrefetch: false,
