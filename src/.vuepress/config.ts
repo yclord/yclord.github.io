@@ -24,7 +24,8 @@ export default defineUserConfig({
     "@PinYin_help": path.resolve(__dirname, "components/pinyin_help.vue"),
     "@PinYin": path.resolve(__dirname, "components/pinyin_popup.vue"),
     "@Test": path.resolve(__dirname, "components/test.vue"),
-    "@Book": path.resolve(__dirname, "components/book.vue")
+    "@Book": path.resolve(__dirname, "components/book.vue"),
+    "@Timeline": path.resolve(__dirname, "components/timeline.vue")
   },
   // Enable it with pwa
   // shouldPrefetch: false,

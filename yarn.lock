@@ -4225,6 +4225,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"date-fns@npm:^3.6.0":
+  version: 3.6.0
+  resolution: "date-fns@npm:3.6.0"
+  checksum: 0b5fb981590ef2f8e5a3ba6cd6d77faece0ea7f7158948f2eaae7bbb7c80a8f63ae30b01236c2923cf89bb3719c33aeb150c715ea4fe4e86e37dcf06bed42fb6
+  languageName: node
+  linkType: hard
+
 "dayjs@npm:^1.11.10":
   version: 1.11.10
   resolution: "dayjs@npm:1.11.10"
@@ -9289,6 +9296,7 @@ __metadata:
   resolution: "vuepress-theme-hope-template@workspace:."
   dependencies:
     "@vuepress/client": "npm:2.0.0-beta.64"
+    date-fns: "npm:^3.6.0"
     leaflet: "npm:^1.9.4"
     nodejs-jieba: "npm:^0.0.2"
     vue: "npm:^3.2.47"
