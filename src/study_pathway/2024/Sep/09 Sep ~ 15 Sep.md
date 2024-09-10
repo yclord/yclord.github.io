@@ -1,9 +1,9 @@
 ---
-title: 02 Sep ~ 09 Sep
+title: 09 Sep ~ 15 Sep
 index: true
 author: Haiyue
 icon: circle-dot
-date: 2024-09-02
+date: 2024-09-10
 ---
 
 | Date | Chinese | English | Math | Organise | Bonus:Self-learning | Bonus: Sleep before 9pm | Punishment | Total |
