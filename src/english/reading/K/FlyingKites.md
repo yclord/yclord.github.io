@@ -12,11 +12,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/001.png)
+![](/data/english/reading/Level-K/Flying%20Kites/001.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/002.png)
+![](/data/english/reading/Level-K/Flying%20Kites/002.png)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/003.png)
+![](/data/english/reading/Level-K/Flying%20Kites/003.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/004.png)
+![](/data/english/reading/Level-K/Flying%20Kites/004.png)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/005.png)
+![](/data/english/reading/Level-K/Flying%20Kites/005.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/006.png)
+![](/data/english/reading/Level-K/Flying%20Kites/006.png)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/007.png)
+![](/data/english/reading/Level-K/Flying%20Kites/007.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/008.png)
+![](/data/english/reading/Level-K/Flying%20Kites/008.png)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/009.png)
+![](/data/english/reading/Level-K/Flying%20Kites/009.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/010.png)
+![](/data/english/reading/Level-K/Flying%20Kites/010.png)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/011.png)
+![](/data/english/reading/Level-K/Flying%20Kites/011.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/012.png)
+![](/data/english/reading/Level-K/Flying%20Kites/012.png)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/013.png)
+![](/data/english/reading/Level-K/Flying%20Kites/013.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Flying Kites/014.png)
+![](/data/english/reading/Level-K/Flying%20Kites/014.png)
 </div>
 </div>
 

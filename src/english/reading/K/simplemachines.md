@@ -12,11 +12,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/001.png)
+![](/data/english/reading/Level-K/simple%20machines/001.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/002.png)
+![](/data/english/reading/Level-K/simple%20machines/002.png)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/003.png)
+![](/data/english/reading/Level-K/simple%20machines/003.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/004.png)
+![](/data/english/reading/Level-K/simple%20machines/004.png)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/005.png)
+![](/data/english/reading/Level-K/simple%20machines/005.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/006.png)
+![](/data/english/reading/Level-K/simple%20machines/006.png)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/007.png)
+![](/data/english/reading/Level-K/simple%20machines/007.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/008.png)
+![](/data/english/reading/Level-K/simple%20machines/008.png)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/009.png)
+![](/data/english/reading/Level-K/simple%20machines/009.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/010.png)
+![](/data/english/reading/Level-K/simple%20machines/010.png)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/011.png)
+![](/data/english/reading/Level-K/simple%20machines/011.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/012.png)
+![](/data/english/reading/Level-K/simple%20machines/012.png)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/013.png)
+![](/data/english/reading/Level-K/simple%20machines/013.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/014.png)
+![](/data/english/reading/Level-K/simple%20machines/014.png)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/015.png)
+![](/data/english/reading/Level-K/simple%20machines/015.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/016.png)
+![](/data/english/reading/Level-K/simple%20machines/016.png)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/017.png)
+![](/data/english/reading/Level-K/simple%20machines/017.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/simple machines/018.png)
+![](/data/english/reading/Level-K/simple%20machines/018.png)
 </div>
 </div>
 

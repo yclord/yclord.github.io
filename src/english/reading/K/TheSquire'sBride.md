@@ -12,11 +12,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/001.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/001.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/002.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/002.png)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/003.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/003.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/004.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/004.png)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/005.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/005.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/006.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/006.png)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/007.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/007.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/008.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/008.png)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/009.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/009.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/010.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/010.png)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/011.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/011.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/012.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/012.png)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/013.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/013.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/014.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/014.png)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/015.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/015.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/016.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/016.png)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/017.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/017.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/The Squire's Bride/018.png)
+![](/data/english/reading/Level-K/The%20Squire's%20Bride/018.png)
 </div>
 </div>
 

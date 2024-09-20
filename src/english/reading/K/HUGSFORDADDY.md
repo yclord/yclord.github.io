@@ -12,11 +12,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/001.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/001.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/002.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/002.png)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/003.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/003.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/004.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/004.png)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/005.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/005.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/006.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/006.png)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/007.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/007.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/008.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/008.png)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/009.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/009.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/010.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/010.png)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/011.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/011.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/012.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/012.png)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/013.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/013.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/014.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/014.png)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/015.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/015.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/016.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/016.png)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/017.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/017.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/HUGS FOR DADDY/018.png)
+![](/data/english/reading/Level-K/HUGS%20FOR%20DADDY/018.png)
 </div>
 </div>
 

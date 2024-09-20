@@ -12,11 +12,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/001.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/001.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/002.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/002.png)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/003.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/003.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/004.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/004.png)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/005.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/005.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/006.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/006.png)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/007.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/007.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/008.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/008.png)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/009.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/009.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/010.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/010.png)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/011.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/011.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/012.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/012.png)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/013.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/013.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/014.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/014.png)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/015.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/015.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/016.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/016.png)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-20
 <div style="display:flex">
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/017.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/017.png)
 </div>
 <div style="flex:1">
 
-![](/data/english/reading/Level-K/Dia de los Muertos/018.png)
+![](/data/english/reading/Level-K/Dia%20de%20los%20Muertos/018.png)
 </div>
 </div>
 

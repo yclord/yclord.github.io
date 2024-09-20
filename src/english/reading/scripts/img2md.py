@@ -15,6 +15,7 @@ layout: Slide
 date: {datetime.now().strftime("%Y-%m-%d")}
 ---
 """
+    name = name.replace(" ", "%20")
     pages = []
     for file in files:
         pages.append(f"![]({relative_path}/{name}/{file}")
@@ -35,6 +36,7 @@ layout: Slide
 date: {datetime.now().strftime("%Y-%m-%d")}
 ---
 """
+    name = name.replace(" ", "%20")
     pages = []
     for i in range(int(len(files)/2)):
         pages.append(f"""
