@@ -8,7 +8,8 @@ date: 2024-01-04
 ---
 **Please select stories from the <span style="color:orange">left pane</span>.**
 
-
+[pdf2images.py](/english/reading/scripts/pdf2images.py)
+[splitImage.py](/english/reading/scripts/splitImage.py)
 
 ::: details Split Images
 `split.py`

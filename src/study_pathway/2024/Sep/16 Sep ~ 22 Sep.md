@@ -47,7 +47,7 @@ date: 2024-09-10
 
 @tab English
 **Objective**: Reading and Writing
-**Content**: [Anna and the magic Coat](/english/reading/K/05.BarackObama.html) p4~p6
+**Content**: [BarackObama](/english/reading/K/05.BarackObama.html) p4~p6
 **Progress**: 
 
 @tab Math
@@ -77,7 +77,7 @@ date: 2024-09-10
 
 @tab English
 **Objective**: Reading and Writing
-**Content**: [Anna and the magic Coat](/english/reading/K/05.BarackObama.html) p7~p12
+**Content**: [BarackObama](/english/reading/K/05.BarackObama.html) p7~p12
 **Progress**: 
 
 @tab Math
@@ -108,11 +108,11 @@ date: 2024-09-10
 
 @tab English
 **Objective**: Reading and Writing
-**Content**: [Anna and the magic Coat](/english/reading/K/04.AnnaAndTheMagicCoat.html) p11~p14
+**Content**: [BarackObama](/english/reading/K/05.BarackObama.html) p11~p14
 **Progress**: 
 
 @tab Math
-* **Objective**: Division & Multiplication
+* **Objective**: Brilliant
 * **Content**: 
 * **Progress**: 
 
@@ -129,20 +129,21 @@ date: 2024-09-10
 
 :::
 
+
 ## 20 September 2024
 ::: tabs
 @tab 中文(Chinese)
 **目的**：学习拼音
-**内容**：认识拼音并读[海底捞针](/chinese/idiom/2024-01-19_海底捞针.html)
+**内容**：认识拼音并读[覆水难收](/chinese/idiom/2024-01-14_覆水难收.html)
 **完成度**：
 
 @tab English
 **Objective**: Reading and Writing
-**Content**: [Anna and the magic Coat](/english/reading/K/06.BlackBeardPirate.html) p11~p14
+**Content**: [BarackObama](/english/reading/K/05.BarackObama.html) p4~p15
 **Progress**: 
 
 @tab Math
-* **Objective**: Division & Multiplication
+* **Objective**: Brilliant
 * **Content**: 
 * **Progress**: 
 
