@@ -12,6 +12,7 @@ date: 2024-09-10
 |17 Sep 2024 | 0 | 25 | 25 | 0 | 0 | 0 | 5 | 50 |
 |18 Sep 2024 | 25 | 25 | 25 | 25 | 10 | 10 |  | 120 |
 |19 Sep 2024 | 25 | 25 | 25 | 0 | 0 | 0 |  | 75 |
+|20 Sep 2024 | 25 | 25 | 25 | 0 | 0 | 0 |  | 75 |
 
 
 
@@ -128,3 +129,32 @@ date: 2024-09-10
 
 :::
 
+## 20 September 2024
+::: tabs
+@tab 中文(Chinese)
+**目的**：学习拼音
+**内容**：认识拼音并读[海底捞针](/chinese/idiom/2024-01-19_海底捞针.html)
+**完成度**：
+
+@tab English
+**Objective**: Reading and Writing
+**Content**: [Anna and the magic Coat](/english/reading/K/06.BlackBeardPirate.html) p11~p14
+**Progress**: 
+
+@tab Math
+* **Objective**: Division & Multiplication
+* **Content**: 
+* **Progress**: 
+
+@tab Organize your own toys
+**Objective**: Learn how to organize the toys and establish good habits.
+**Content**: 
+**Progress**: 
+
+@tab Bonus
+**Self-learning**: 
+**Go to bed before 9pm**: 0%
+
+@tab Punishment
+
+:::
