@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 from datetime import datetime
-img_path = r"C:\workspace\personal\yclord.github.io\src\.vuepress\public\data\english\reading\Level-K"
+img_path = r"F:\01.workspace\27.blog\blog-son\yclord.github.io\src\.vuepress\public\data\english\reading\Level-K"
 
 
 def single_img_pages(parent, files, relative_path="/data/english/reading/Level-K"):
@@ -18,8 +18,8 @@ date: {datetime.now().strftime("%Y-%m-%d")}
     name = name.replace(" ", "%20")
     pages = []
     for file in files:
-        pages.append(f"![]({relative_path}/{name}/{file}")
-    pages = "\n---\n".join(pages)
+        pages.append(f"![]({relative_path}/{name}/{file})")
+    pages = "\n\n---\n\n".join(pages)
     return f"""{header} 
 @slidestart
 {pages}
@@ -57,7 +57,7 @@ date: {datetime.now().strftime("%Y-%m-%d")}
 {pages}
 @slideend"""
 
-md_folder = r"C:\workspace\personal\yclord.github.io\src\english\reading\K"
+md_folder = r"F:\01.workspace\27.blog\blog-son\yclord.github.io\src\english\reading\K"
 for parent, folders, files in os.walk(img_path):
     _, name = os.path.split(parent)
     if len(files) > 1:
@@ -65,6 +65,7 @@ for parent, folders, files in os.walk(img_path):
         rate = image.size[0]/image.size[1]
         if rate < 1:
             content = double_pages(parent, files)
+            pass
         else:
             content = single_img_pages(parent, files)
         with open(os.path.join(md_folder, name.replace(" ", "")+".md"), "w") as fw:
