@@ -1,0 +1,127 @@
+---
+title: NEIL DEGRASSE TYSON STAR MAN
+index: true
+icon: circle-dot
+author: Haiyue
+layout: Slide
+date: 2024-09-22
+---
+ 
+@slidestart
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/001.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/002.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/003.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/004.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/005.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/006.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/007.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/008.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/009.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/010.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/011.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/012.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/013.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/014.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/015.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/016.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/017.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/NEIL%20DEGRASSE%20TYSON%20STAR%20MAN/018.webp)
+</div>
+</div>
+
+@slideend

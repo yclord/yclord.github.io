@@ -1,0 +1,127 @@
+---
+title: HISTORY OF THE BICYCLE
+index: true
+icon: circle-dot
+author: Haiyue
+layout: Slide
+date: 2024-09-22
+---
+ 
+@slidestart
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/001.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/002.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/003.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/004.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/005.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/006.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/007.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/008.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/009.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/010.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/011.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/012.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/013.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/014.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/015.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/016.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/017.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HISTORY%20OF%20THE%20BICYCLE/018.webp)
+</div>
+</div>
+
+@slideend

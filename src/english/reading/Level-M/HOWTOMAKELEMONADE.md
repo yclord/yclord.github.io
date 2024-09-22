@@ -1,0 +1,127 @@
+---
+title: HOW TO MAKE LEMONADE
+index: true
+icon: circle-dot
+author: Haiyue
+layout: Slide
+date: 2024-09-22
+---
+ 
+@slidestart
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/001.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/002.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/003.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/004.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/005.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/006.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/007.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/008.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/009.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/010.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/011.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/012.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/013.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/014.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/015.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/016.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/017.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-M/HOW%20TO%20MAKE%20LEMONADE/018.webp)
+</div>
+</div>
+
+@slideend

@@ -1,0 +1,179 @@
+---
+title: MARCO POLO AND THE SILK ROAD
+index: true
+icon: circle-dot
+author: Haiyue
+layout: Slide
+date: 2024-09-22
+---
+ 
+@slidestart
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/001.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/002.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/003.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/004.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/005.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/006.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/007.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/008.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/009.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/010.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/011.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/012.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/013.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/014.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/015.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/016.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/017.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/018.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/019.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/020.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/021.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/022.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/023.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/024.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/025.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-Y/MARCO%20POLO%20AND%20THE%20SILK%20ROAD/026.webp)
+</div>
+</div>
+
+@slideend

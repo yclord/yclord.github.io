@@ -1,0 +1,127 @@
+---
+title: SAY IT WITH PICTURES
+index: true
+icon: circle-dot
+author: Haiyue
+layout: Slide
+date: 2024-09-22
+---
+ 
+@slidestart
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/001.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/002.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/003.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/004.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/005.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/006.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/007.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/008.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/009.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/010.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/011.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/012.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/013.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/014.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/015.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/016.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/017.webp)
+</div>
+<div style="flex:1">
+
+![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-U/SAY%20IT%20WITH%20PICTURES/018.webp)
+</div>
+</div>
+
+@slideend
