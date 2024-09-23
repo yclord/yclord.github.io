@@ -2,6 +2,7 @@ import os
 import webp
 from PIL import Image
 path = r"F:\01.workspace\27.blog\blog-son\reading"
+path = r"F:\01.workspace\27.blog\blog-son\reading\Level-K"
 import sys
 sys.path.append(os.path.split(__file__)[0])
 from thread_util import thread_util
