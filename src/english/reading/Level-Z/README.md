@@ -1,8 +1,8 @@
 ---
-title: 1865 THE END OF THE CIVIL WAR
+title: Level-Z
 index: false
 navbar: true
 icon: list-check
 article: false
-date: 2024-09-22
+date: 2024-09-23
 ---

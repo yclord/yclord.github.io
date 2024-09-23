@@ -100,6 +100,6 @@ for parent, folders, files in os.walk(img_path):
             book_level, book_name = get_level_name(parent)
             if not os.path.exists(os.path.join(md_folder, book_level)):
                 os.makedirs(os.path.join(md_folder, book_level))
-                write_readme(os.path.join(md_folder, book_level, "README.md"), book_name)
+                write_readme(os.path.join(md_folder, book_level, "README.md"), book_level)
             with open(os.path.join(md_folder, book_level, name.replace(" ", "")+".md"), "w") as fw:
                 fw.write(content)

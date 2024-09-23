@@ -1,8 +1,8 @@
 ---
-title: 1849 THE CALIFORNIA GOLD RUSH
+title: Level-O
 index: false
 navbar: true
 icon: list-check
 article: false
-date: 2024-09-22
+date: 2024-09-23
 ---

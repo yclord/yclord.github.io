@@ -1,8 +1,8 @@
 ---
-title: A GOLDEN TRAGEDY
+title: Level-P
 index: false
 navbar: true
 icon: list-check
 article: false
-date: 2024-09-22
+date: 2024-09-23
 ---
