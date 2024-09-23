@@ -58,7 +58,6 @@ date: {datetime.now().strftime("%Y-%m-%d")}
 @slideend"""
 
 img_path = r"F:\01.workspace\27.blog\blog-son\reading\english"
-img_path = r"F:\01.workspace\27.blog\blog-son\reading\Level-K"
 md_folder = r"F:\01.workspace\27.blog\blog-son\yclord.github.io\src\english\reading"
 
 
@@ -72,7 +71,9 @@ def get_md_content(parent, files):
         #image = Image.open(os.path.join(parent, files[0]))
         rate = image.size[0]/image.size[1]
         book_level, book_name = get_level_name(parent)
-        base_url = "https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english"
+        #base_url = "https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english"
+        base_url = "/reading/english"
+        
         if rate < 1:
             content = double_pages(parent, files, f"{base_url}/{book_level}")
             pass
