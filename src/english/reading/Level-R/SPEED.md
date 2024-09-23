@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/001.webp)
+![](/reading/english/Level-R/SPEED/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/002.webp)
+![](/reading/english/Level-R/SPEED/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/003.webp)
+![](/reading/english/Level-R/SPEED/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/004.webp)
+![](/reading/english/Level-R/SPEED/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/005.webp)
+![](/reading/english/Level-R/SPEED/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/006.webp)
+![](/reading/english/Level-R/SPEED/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/007.webp)
+![](/reading/english/Level-R/SPEED/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/008.webp)
+![](/reading/english/Level-R/SPEED/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/009.webp)
+![](/reading/english/Level-R/SPEED/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/010.webp)
+![](/reading/english/Level-R/SPEED/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/011.webp)
+![](/reading/english/Level-R/SPEED/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/012.webp)
+![](/reading/english/Level-R/SPEED/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/013.webp)
+![](/reading/english/Level-R/SPEED/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/014.webp)
+![](/reading/english/Level-R/SPEED/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/015.webp)
+![](/reading/english/Level-R/SPEED/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/016.webp)
+![](/reading/english/Level-R/SPEED/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/017.webp)
+![](/reading/english/Level-R/SPEED/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/018.webp)
+![](/reading/english/Level-R/SPEED/018.webp)
 </div>
 </div>
 
@@ -129,11 +129,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/019.webp)
+![](/reading/english/Level-R/SPEED/019.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/020.webp)
+![](/reading/english/Level-R/SPEED/020.webp)
 </div>
 </div>
 
@@ -142,11 +142,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/021.webp)
+![](/reading/english/Level-R/SPEED/021.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/022.webp)
+![](/reading/english/Level-R/SPEED/022.webp)
 </div>
 </div>
 
@@ -155,11 +155,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/023.webp)
+![](/reading/english/Level-R/SPEED/023.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/024.webp)
+![](/reading/english/Level-R/SPEED/024.webp)
 </div>
 </div>
 
@@ -168,11 +168,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/025.webp)
+![](/reading/english/Level-R/SPEED/025.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SPEED/026.webp)
+![](/reading/english/Level-R/SPEED/026.webp)
 </div>
 </div>
 

@@ -1,0 +1,179 @@
+---
+title: ROBIN HOOD AND THE KING
+index: true
+icon: circle-dot
+author: Haiyue
+layout: Slide
+date: 2024-09-23
+---
+ 
+@slidestart
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/001.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/002.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/003.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/004.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/005.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/006.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/007.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/008.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/009.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/010.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/011.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/012.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/013.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/014.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/015.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/016.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/017.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/018.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/019.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/020.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/021.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/022.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/023.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/024.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/025.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/ROBIN%20HOOD%20AND%20THE%20KING/026.webp)
+</div>
+</div>
+
+@slideend

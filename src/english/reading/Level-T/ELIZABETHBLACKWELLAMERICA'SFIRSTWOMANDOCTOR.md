@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/001.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/002.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/003.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/004.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/005.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/006.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/007.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/008.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/009.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/010.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/011.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/012.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/013.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/014.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/015.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/016.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/017.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/018.webp)
+![](/reading/english/Level-T/ELIZABETH%20BLACKWELL%20AMERICA'S%20FIRST%20WOMAN%20DOCTOR/018.webp)
 </div>
 </div>
 

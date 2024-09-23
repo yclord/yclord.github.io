@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/001.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/002.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/003.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/004.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/005.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/006.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/007.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/008.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/009.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/010.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/011.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/012.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/013.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/014.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/015.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/016.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/017.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-T/AWESOME%20ANTS/018.webp)
+![](/reading/english/Level-T/AWESOME%20ANTS/018.webp)
 </div>
 </div>
 

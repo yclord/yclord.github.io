@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/001.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/002.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/003.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/004.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/005.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/006.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/007.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/008.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/009.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/010.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/011.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/012.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/013.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/014.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/015.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/016.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/017.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/018.webp)
+![](/reading/english/Level-O/PECOS%20BILL%20RIDES%20A%20TORNADO/018.webp)
 </div>
 </div>
 

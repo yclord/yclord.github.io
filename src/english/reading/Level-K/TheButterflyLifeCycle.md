@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/001.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/002.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/003.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/004.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/005.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/006.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/007.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/008.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/009.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/010.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/011.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/012.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/013.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/014.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/015.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/016.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/017.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/The%20Butterfly%20Life%20Cycle/018.webp)
+![](/reading/english/Level-K/The%20Butterfly%20Life%20Cycle/018.webp)
 </div>
 </div>
 

@@ -8,9 +8,9 @@ export const enNavbar = navbar([
     prefix: "/chinese/",
     children: [
       {text: "拼音（pinyin）", link: "pinyin/pinyin"},
-      {text: "汉字（word）", link: "words"},
-      {text: "成语（idiom）", link: "idiom"},
-      {text: "故事（story）", link: "story"},
+      {text: "汉字（word）", link: "words/"},
+      {text: "成语（idiom）", link: "idiom/"},
+      {text: "故事（story）", link: "story/"},
     ]
   },
   {

@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/001.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/002.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/003.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/004.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/005.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/006.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/007.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/008.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/009.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/010.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/011.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/012.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/013.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/014.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/015.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/016.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/017.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-N/BRAINSTORM%20BEAR/018.webp)
+![](/reading/english/Level-N/BRAINSTORM%20BEAR/018.webp)
 </div>
 </div>
 

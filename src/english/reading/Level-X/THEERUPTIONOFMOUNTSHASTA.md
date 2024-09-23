@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/001.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/002.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/003.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/004.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/005.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/006.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/007.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/008.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/009.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/010.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/011.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/012.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/013.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/014.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/015.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/016.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/017.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/018.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/018.webp)
 </div>
 </div>
 
@@ -129,11 +129,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/019.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/019.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/020.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/020.webp)
 </div>
 </div>
 
@@ -142,11 +142,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/021.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/021.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/022.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/022.webp)
 </div>
 </div>
 
@@ -155,11 +155,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/023.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/023.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/024.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/024.webp)
 </div>
 </div>
 
@@ -168,11 +168,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/025.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/025.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/026.webp)
+![](/reading/english/Level-X/THE%20ERUPTION%20OF%20MOUNT%20SHASTA/026.webp)
 </div>
 </div>
 

@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/001.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/002.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/003.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/004.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/005.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/006.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/007.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/008.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/009.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/010.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/011.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/012.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/013.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/014.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/015.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/016.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/017.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/018.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/018.webp)
 </div>
 </div>
 
@@ -129,11 +129,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/019.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/019.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/020.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/020.webp)
 </div>
 </div>
 
@@ -142,11 +142,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/021.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/021.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/022.webp)
+![](/reading/english/Level-R/GOING%20TO%20THE%20SUPER%20BOWL/022.webp)
 </div>
 </div>
 

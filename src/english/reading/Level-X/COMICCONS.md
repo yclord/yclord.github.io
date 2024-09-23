@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/001.webp)
+![](/reading/english/Level-X/COMIC%20CONS/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/002.webp)
+![](/reading/english/Level-X/COMIC%20CONS/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/003.webp)
+![](/reading/english/Level-X/COMIC%20CONS/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/004.webp)
+![](/reading/english/Level-X/COMIC%20CONS/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/005.webp)
+![](/reading/english/Level-X/COMIC%20CONS/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/006.webp)
+![](/reading/english/Level-X/COMIC%20CONS/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/007.webp)
+![](/reading/english/Level-X/COMIC%20CONS/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/008.webp)
+![](/reading/english/Level-X/COMIC%20CONS/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/009.webp)
+![](/reading/english/Level-X/COMIC%20CONS/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/010.webp)
+![](/reading/english/Level-X/COMIC%20CONS/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/011.webp)
+![](/reading/english/Level-X/COMIC%20CONS/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/012.webp)
+![](/reading/english/Level-X/COMIC%20CONS/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/013.webp)
+![](/reading/english/Level-X/COMIC%20CONS/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/014.webp)
+![](/reading/english/Level-X/COMIC%20CONS/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/015.webp)
+![](/reading/english/Level-X/COMIC%20CONS/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/016.webp)
+![](/reading/english/Level-X/COMIC%20CONS/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/017.webp)
+![](/reading/english/Level-X/COMIC%20CONS/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/COMIC%20CONS/018.webp)
+![](/reading/english/Level-X/COMIC%20CONS/018.webp)
 </div>
 </div>
 

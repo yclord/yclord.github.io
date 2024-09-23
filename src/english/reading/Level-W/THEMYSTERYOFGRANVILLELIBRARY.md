@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/001.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/002.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/003.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/004.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/005.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/006.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/007.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/008.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/009.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/010.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/011.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/012.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/013.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/014.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/015.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/016.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/017.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/018.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/018.webp)
 </div>
 </div>
 
@@ -129,11 +129,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/019.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/019.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/020.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/020.webp)
 </div>
 </div>
 
@@ -142,11 +142,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/021.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/021.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/022.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/022.webp)
 </div>
 </div>
 
@@ -155,11 +155,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/023.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/023.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/024.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/024.webp)
 </div>
 </div>
 
@@ -168,11 +168,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/025.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/025.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/026.webp)
+![](/reading/english/Level-W/THE%20MYSTERY%20OF%20GRANVILLE%20LIBRARY/026.webp)
 </div>
 </div>
 

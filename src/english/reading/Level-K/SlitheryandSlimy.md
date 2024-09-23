@@ -8,73 +8,73 @@ date: 2024-09-23
 ---
  
 @slidestart
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/001.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/001.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/002.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/002.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/003.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/003.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/004.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/004.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/005.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/005.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/006.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/006.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/007.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/007.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/008.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/008.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/009.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/009.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/010.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/010.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/011.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/011.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/012.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/012.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/013.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/013.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/014.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/014.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/015.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/015.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/016.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/016.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/017.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/017.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Slithery%20and%20Slimy/018.webp)
+![](/reading/english/Level-K/Slithery%20and%20Slimy/018.webp)
 @slideend

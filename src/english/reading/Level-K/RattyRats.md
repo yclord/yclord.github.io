@@ -8,81 +8,81 @@ date: 2024-09-23
 ---
  
 @slidestart
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/001.webp)
+![](/reading/english/Level-K/Ratty%20Rats/001.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/002.webp)
+![](/reading/english/Level-K/Ratty%20Rats/002.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/003.webp)
+![](/reading/english/Level-K/Ratty%20Rats/003.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/004.webp)
+![](/reading/english/Level-K/Ratty%20Rats/004.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/005.webp)
+![](/reading/english/Level-K/Ratty%20Rats/005.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/006.webp)
+![](/reading/english/Level-K/Ratty%20Rats/006.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/007.webp)
+![](/reading/english/Level-K/Ratty%20Rats/007.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/008.webp)
+![](/reading/english/Level-K/Ratty%20Rats/008.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/009.webp)
+![](/reading/english/Level-K/Ratty%20Rats/009.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/010.webp)
+![](/reading/english/Level-K/Ratty%20Rats/010.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/011.webp)
+![](/reading/english/Level-K/Ratty%20Rats/011.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/012.webp)
+![](/reading/english/Level-K/Ratty%20Rats/012.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/013.webp)
+![](/reading/english/Level-K/Ratty%20Rats/013.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/014.webp)
+![](/reading/english/Level-K/Ratty%20Rats/014.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/015.webp)
+![](/reading/english/Level-K/Ratty%20Rats/015.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/016.webp)
+![](/reading/english/Level-K/Ratty%20Rats/016.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/017.webp)
+![](/reading/english/Level-K/Ratty%20Rats/017.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/018.webp)
+![](/reading/english/Level-K/Ratty%20Rats/018.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/019.webp)
+![](/reading/english/Level-K/Ratty%20Rats/019.webp)
 
 ---
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Ratty%20Rats/020.webp)
+![](/reading/english/Level-K/Ratty%20Rats/020.webp)
 @slideend

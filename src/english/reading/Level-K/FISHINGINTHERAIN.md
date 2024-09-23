@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/001.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/002.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/003.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/004.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/005.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/006.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/007.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/008.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/009.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/010.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/011.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/012.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/013.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/FISHING%20IN%20THE%20RAIN/014.webp)
+![](/reading/english/Level-K/FISHING%20IN%20THE%20RAIN/014.webp)
 </div>
 </div>
 

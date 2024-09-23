@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/001.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/001.jpg)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/002.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/002.jpg)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/003.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/003.jpg)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/004.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/004.jpg)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/005.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/005.jpg)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/006.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/006.jpg)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/007.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/007.jpg)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/008.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/008.jpg)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/009.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/009.jpg)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/010.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/010.jpg)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/011.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/011.jpg)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/012.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/012.jpg)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/013.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/013.jpg)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/014.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/014.jpg)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/015.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/015.jpg)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/016.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/016.jpg)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/017.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/017.jpg)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-K/Black%20Beard%20Pirate/018.jpg)
+![](/reading/english/Level-K/Black%20Beard%20Pirate/018.jpg)
 </div>
 </div>
 

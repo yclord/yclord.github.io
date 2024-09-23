@@ -1,0 +1,179 @@
+---
+title: THE AMAZING UNDERSEA FOOD WEB
+index: true
+icon: circle-dot
+author: Haiyue
+layout: Slide
+date: 2024-09-23
+---
+ 
+@slidestart
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/001.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/002.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/003.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/004.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/005.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/006.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/007.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/008.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/009.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/010.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/011.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/012.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/013.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/014.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/015.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/016.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/017.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/018.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/019.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/020.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/021.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/022.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/023.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/024.webp)
+</div>
+</div>
+
+---
+
+<div style="display:flex">
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/025.webp)
+</div>
+<div style="flex:1">
+
+![](/reading/english/Level-Z/THE%20AMAZING%20UNDERSEA%20FOOD%20WEB/026.webp)
+</div>
+</div>
+
+@slideend

@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/001.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/002.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/003.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/004.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/005.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/006.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/007.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/008.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/009.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/010.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/011.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/012.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/013.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/014.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/015.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/016.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/017.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-O/GHOST%20TOWNS/018.webp)
+![](/reading/english/Level-O/GHOST%20TOWNS/018.webp)
 </div>
 </div>
 

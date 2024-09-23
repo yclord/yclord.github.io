@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/001.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/002.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/003.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/004.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/005.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/006.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/007.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/008.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/009.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/010.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/011.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/THE%20HUNTING%20TRIP/012.webp)
+![](/reading/english/Level-R/THE%20HUNTING%20TRIP/012.webp)
 </div>
 </div>
 

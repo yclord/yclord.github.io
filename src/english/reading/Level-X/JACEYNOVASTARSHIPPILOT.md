@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/001.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/002.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/003.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/004.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/005.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/006.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/007.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/008.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/009.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/010.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/011.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/012.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/013.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/014.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/015.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/016.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/017.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/018.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/018.webp)
 </div>
 </div>
 
@@ -129,11 +129,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/019.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/019.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/020.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/020.webp)
 </div>
 </div>
 
@@ -142,11 +142,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/021.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/021.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/022.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/022.webp)
 </div>
 </div>
 
@@ -155,11 +155,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/023.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/023.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/024.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/024.webp)
 </div>
 </div>
 
@@ -168,11 +168,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/025.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/025.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/026.webp)
+![](/reading/english/Level-X/JACEY%20NOVA%20STARSHIP%20PILOT/026.webp)
 </div>
 </div>
 

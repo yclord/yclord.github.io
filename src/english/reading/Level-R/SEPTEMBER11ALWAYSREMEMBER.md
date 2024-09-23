@@ -12,11 +12,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/001.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/001.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/002.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/002.webp)
 </div>
 </div>
 
@@ -25,11 +25,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/003.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/003.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/004.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/004.webp)
 </div>
 </div>
 
@@ -38,11 +38,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/005.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/005.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/006.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/006.webp)
 </div>
 </div>
 
@@ -51,11 +51,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/007.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/007.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/008.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/008.webp)
 </div>
 </div>
 
@@ -64,11 +64,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/009.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/009.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/010.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/010.webp)
 </div>
 </div>
 
@@ -77,11 +77,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/011.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/011.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/012.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/012.webp)
 </div>
 </div>
 
@@ -90,11 +90,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/013.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/013.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/014.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/014.webp)
 </div>
 </div>
 
@@ -103,11 +103,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/015.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/015.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/016.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/016.webp)
 </div>
 </div>
 
@@ -116,11 +116,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/017.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/017.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/018.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/018.webp)
 </div>
 </div>
 
@@ -129,11 +129,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/019.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/019.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/020.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/020.webp)
 </div>
 </div>
 
@@ -142,11 +142,11 @@ date: 2024-09-23
 <div style="display:flex">
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/021.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/021.webp)
 </div>
 <div style="flex:1">
 
-![](https://raw.githubusercontent.com/yclord/reading/refs/heads/master/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/022.webp)
+![](/reading/english/Level-R/SEPTEMBER%2011%20ALWAYS%20REMEMBER/022.webp)
 </div>
 </div>
 
