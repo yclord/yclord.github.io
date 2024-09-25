@@ -8,7 +8,9 @@ date: 2024-09-10
 
 | Date | Chinese | English | Math | Organise | Bonus:Self-learning | Bonus: Sleep before 9pm | Punishment | Total |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|16 Sep 2024 | 25 | 25 | 25 | 0 | 0 | 0 | Timeout Play Phone Game: -$1 | 75 |
+|23 Sep 2024 | 25 | 25 | 25 | 0 | 0 | 0 | Timeout Play Phone Game: -$1 | 75 |
+|24 Sep 2024 | 0 | 25 | 25 | 0 | 0 | 0 |  | 50 |
+|25 Sep 2024 | 25 | 25 | 25 | 25 | 0 | 0 |  | 100 |
 
 
 
