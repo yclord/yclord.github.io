@@ -10,9 +10,14 @@ date: 2024-09-10
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 |23 Sep 2024 | 25 | 25 | 25 | 0 | 0 | 0 | Timeout Play Phone Game: -$1 | 75 |
 |24 Sep 2024 | 0 | 25 | 25 | 0 | 0 | 0 |  | 50 |
-|25 Sep 2024 | 25 | 25 | 25 | 25 | 0 | 0 |  | 100 |
+|25 Sep 2024 | 25 | 25 | 25 | 25 | 10 | 10 |  | 120 |
+|26 Sep 2024 | 25 | 25 | 25 | 25 | 10 | 10 |  | 120 |
+|27 Sep 2024 | 25 | 25 | 25 | 25 | 10 | 10 |  | 120 |
 
-
+The googd performance is very good, thus got 15 bouns. Therefore got 500 points this week.
+The rewards are
+1. $10
+2. 1 hour  play time with PAD.
 
 ## 23 September 2024
 ::: tabs

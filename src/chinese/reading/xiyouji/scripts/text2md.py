@@ -56,15 +56,13 @@ date: 2024-09-19
 ---
 """ + """
 <style>
-  div.content {
+  ruby {
     font-size: 30pt;
   }
 </style>
-<div class="content">
-            """
+"""
             for line in lines:
-                md_content += htmlPinyin(line) + "\n\n"
-            md_content += "</div>"
+                md_content += htmlPinyin(line.strip()) + "\n\n"
             with open(output_md, "w", encoding="utf-8") as fw:
                 fw.write(md_content)
 
