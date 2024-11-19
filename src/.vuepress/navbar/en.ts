@@ -19,7 +19,8 @@ export const enNavbar = navbar([
     prefix: "/english/",
     children: [
       {text: "Story", link: "story"},
-      {text: "Readings", link: "reading"},
+      //{text: "Readings", link: "reading"},
+      
     ]
   },
 

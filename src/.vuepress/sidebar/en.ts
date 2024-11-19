@@ -8,11 +8,11 @@ export const enSidebar = sidebar({
       prefix: "chinese/",
       children: "structure",
     },
-    {
-      text: "英文",
-      prefix: "english/",
-      children: "structure",
-    },
+    //{
+    //  text: "英文",
+    //  prefix: "english/",
+    //  children: "structure",
+    //},
     {
       text: "学习笔记",
       prefix: "study_pathway/",
